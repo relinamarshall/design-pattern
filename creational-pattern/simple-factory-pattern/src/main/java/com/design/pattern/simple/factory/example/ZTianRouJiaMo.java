@@ -1,4 +1,4 @@
-package com.design.pattern.simple.factory;
+package com.design.pattern.simple.factory.example;
 
 /**
  * ZTianRouJiaMo

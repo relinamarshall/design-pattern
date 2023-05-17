@@ -1,4 +1,4 @@
-package com.design.pattern.factory.method;
+package com.design.pattern.factory.method.example;
 
 /**
  * XiAnRouJiaFactory

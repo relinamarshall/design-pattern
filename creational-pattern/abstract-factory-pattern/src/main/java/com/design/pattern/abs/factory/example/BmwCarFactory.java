@@ -1,15 +1,15 @@
-package com.design.pattern.abs.factory;
+package com.design.pattern.abs.factory.example;
 
 /**
- * BenzCarFactory
+ * BmwCarFactory
  *
  * @author Wenzhou
- * @since 2023/5/15 16:05
+ * @since 2023/5/15 16:04
  */
-public class BenzCarFactory extends CarFactory{
+public class BmwCarFactory extends CarFactory{
     @Override
     public SportCar buildSportCar() {
-        return new BenzSportCar();
+        return new BmwSportCar();
     }
 
     @Override

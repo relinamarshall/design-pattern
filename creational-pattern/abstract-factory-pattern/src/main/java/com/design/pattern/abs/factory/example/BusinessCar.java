@@ -1,4 +1,4 @@
-package com.design.pattern.abs.factory;
+package com.design.pattern.abs.factory.example;
 
 /**
  * BusinessCar

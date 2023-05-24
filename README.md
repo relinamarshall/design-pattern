@@ -17,7 +17,9 @@
     - singleton-pattern
 - structural-pattern
     - adapter-pattern
+    - bridge-pattern
     - composite-pattern
+    - decorator-pattern
     - facade-pattern
     - proxy-pattern
 

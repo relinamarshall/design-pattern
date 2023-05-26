@@ -8,6 +8,7 @@
     - state-pattern
     - strategy-pattern
     - template-method-pattern
+    - visitor-pattern
 - creational-pattern
     - abstract-factory-pattern
     - builder-pattern

@@ -20,5 +20,6 @@
 		<module>composite-pattern</module>
 		<module>bridge-pattern</module>
 		<module>decorator-pattern</module>
+		<module>flyweight-pattern</module>
 	</modules>
 </project>

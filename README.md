@@ -21,6 +21,7 @@
     - composite-pattern
     - decorator-pattern
     - facade-pattern
+    - flyweight-pattern
     - proxy-pattern
 
 ### Reference

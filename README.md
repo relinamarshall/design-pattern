@@ -1,6 +1,7 @@
 ### DesignPattern
 
 - behavioral-pattern
+    - chain-of-responsibility-pattern
     - command-pattern
     - iterator-pattern
     - mediator-pattern

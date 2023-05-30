@@ -4,6 +4,7 @@
     - chain-of-responsibility-pattern
     - command-pattern
     - iterator-pattern
+    - interpreter-pattern
     - mediator-pattern
     - observer-pattern
     - state-pattern

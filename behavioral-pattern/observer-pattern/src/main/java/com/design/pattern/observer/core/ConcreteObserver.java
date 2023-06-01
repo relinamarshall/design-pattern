@@ -1,4 +1,4 @@
-package com.design.pattern.observer;
+package com.design.pattern.observer.core;
 
 /**
  * ConcreteObserver

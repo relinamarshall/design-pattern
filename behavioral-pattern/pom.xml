@@ -21,6 +21,7 @@
 		<module>visitor-pattern</module>
 		<module>chain-of-responsibility-pattern</module>
 		<module>interpreter-pattern</module>
+		<module>memento-pattern</module>
 	</modules>
 	<artifactId>behavioral-pattern</artifactId>
 	<description>行为型模式</description>

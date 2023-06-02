@@ -55,5 +55,6 @@
 
 ### Reference
 
+- https://refactoringguru.cn/design-patterns
 - https://design-patterns.readthedocs.io/zh_CN/latest/index.html
 - https://github.com/youlookwhat/DesignPattern

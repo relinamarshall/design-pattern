@@ -1,4 +1,4 @@
-package com.design.pattern.builder;
+package com.design.pattern.builder.core;
 
 /**
  * Director

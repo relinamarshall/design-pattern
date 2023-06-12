@@ -1,4 +1,4 @@
-package com.design.pattern.singleton.enums;
+package com.design.pattern.singleton.core.enums;
 
 /**
  * EnumSingletonExample

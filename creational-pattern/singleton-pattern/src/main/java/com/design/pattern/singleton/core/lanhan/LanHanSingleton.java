@@ -1,4 +1,4 @@
-package com.design.pattern.singleton.lanhan;
+package com.design.pattern.singleton.core.lanhan;
 
 /**
  * LanHanSingleton

@@ -1,4 +1,4 @@
-package com.design.pattern.singleton.inclass;
+package com.design.pattern.singleton.core.inclass;
 
 /**
  * InClassSingleton

@@ -1,4 +1,4 @@
-package com.design.pattern.singleton.ehan;
+package com.design.pattern.singleton.core.ehan;
 
 /**
  * EHanSingleton

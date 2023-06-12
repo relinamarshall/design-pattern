@@ -1,4 +1,4 @@
-package com.design.pattern.prototype;
+package com.design.pattern.prototype.core;
 
 /**
  * Square

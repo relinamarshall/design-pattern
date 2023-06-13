@@ -1,4 +1,4 @@
-package com.design.pattern.proxy.jdk;
+package com.design.pattern.proxy.core.jdk;
 
 /**
  * UserService

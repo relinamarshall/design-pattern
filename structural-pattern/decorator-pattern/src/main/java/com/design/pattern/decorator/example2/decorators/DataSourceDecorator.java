@@ -2,6 +2,8 @@ package com.design.pattern.decorator.example2.decorators;
 
 /**
  * DataSourceDecorator
+ * <p>
+ * 抽象基础装饰
  *
  * @author Wenzhou
  * @since 2023/6/14 15:09

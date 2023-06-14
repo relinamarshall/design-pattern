@@ -11,6 +11,8 @@ import java.util.zip.InflaterInputStream;
 
 /**
  * CompressionDecorator
+ * <p>
+ * 压缩装饰
  *
  * @author Wenzhou
  * @since 2023/6/14 15:11

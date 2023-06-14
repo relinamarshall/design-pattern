@@ -4,6 +4,8 @@ import java.util.Base64;
 
 /**
  * EncryptionDecorator
+ * <p>
+ * 加密装饰
  *
  * @author Wenzhou
  * @since 2023/6/14 15:10
